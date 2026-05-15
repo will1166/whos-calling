@@ -13,3 +13,5 @@ Then twice.
 Then a voice says your name.
 
 What do you do next?
+
+[You recognize the voice. It sounds like Tara, one of your friends standing right in front of you.](./friend.md)
