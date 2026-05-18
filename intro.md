@@ -15,3 +15,4 @@ Then a voice says your name.
 What do you do next?
 
 - [You answer the phone](phone.md)
+- [You recognize the voice. It sounds like Tara, one of your friends standing right in front of you.](./friend.md)
