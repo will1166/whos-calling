@@ -14,4 +14,4 @@ You hear footsteps running away, heading up the stairs.
 
 what do you do next? 
 
-
+[Follow the steps upstairs](upstairs.md)
