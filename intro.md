@@ -13,3 +13,5 @@ Then twice.
 Then a voice says your name.
 
 What do you do next?
+
+- [You answer the phone](phone.md)
