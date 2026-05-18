@@ -13,3 +13,5 @@ Then twice.
 Then a voice says your name.
 
 What do you do next?
+
+[Answer back to the voice](voices.md)
