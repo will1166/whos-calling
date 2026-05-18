@@ -14,5 +14,6 @@ Then a voice says your name.
 
 What do you do next?
 
+- [You hang up the phone](./door.md)
 - [You answer the phone](phone.md)
-- [You recognize the voice. It sounds like Tara, one of your friends standing right in front of you.](./friend.md)
+- [You hang up the phone](./door.md)
