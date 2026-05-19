@@ -9,3 +9,5 @@ Then a voice whispers:
 “You were not supposed to enter this house.”
 
 A loud bang echoes upstairs.
+
+- [Follow the sound back to the phone](deadend.md) 
