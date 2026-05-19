@@ -10,8 +10,14 @@ Then a voice whispers:
 
 A loud bang echoes upstairs.
 
-The phone begins ringing again.
+The house falls completely silent.
 
-This time, the voice sounds closer.
-    
-- [You follow the sound upstairs](upstairs.md)
+For a moment, nobody moves.
+
+Then the phone starts ringing again.
+
+This time, the sound is coming from the basement.
+
+A cold draft slips from beneath the basement door.
+
+- [You follow the sound downstairs](basement.md)
