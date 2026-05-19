@@ -21,3 +21,4 @@ This time, the sound is coming from the basement.
 A cold draft slips from beneath the basement door.
 
 - [You follow the sound downstairs](basement.md)
+- [Follow the sound back to the phone](deadend.md) 
