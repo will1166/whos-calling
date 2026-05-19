@@ -9,3 +9,9 @@ Then a voice whispers:
 “You were not supposed to enter this house.”
 
 A loud bang echoes upstairs.
+
+The phone begins ringing again.
+
+This time, the voice sounds closer.
+    
+- [You follow the sound upstairs](upstairs.md)
